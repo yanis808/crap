@@ -1,5 +1,6 @@
-# Program calculator. The calculator can calculate basic operations like +, -, /, * with two numbers.
+# Program calculator. The calculator can calculate basic operations like +, -, /, * with two positive numbers.
 # You don't need separate numbers and operators with withe space.
+# In this version is possible to calculate more than 2 numbers.
 start = input("Co chcesz obliczyć?\n")
 while start != "":
     if "+" in start:
